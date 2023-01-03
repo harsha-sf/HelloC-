@@ -3,6 +3,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello C#");
+        Console.WriteLine("Good Morning");
+         Console.WriteLine("Good Afternoon");
     }
 }

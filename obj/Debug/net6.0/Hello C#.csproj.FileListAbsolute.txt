@@ -1,0 +1,15 @@
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\bin\Debug\net6.0\Hello C#.exe
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\bin\Debug\net6.0\Hello C#.deps.json
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\bin\Debug\net6.0\Hello C#.runtimeconfig.json
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\bin\Debug\net6.0\Hello C#.dll
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\bin\Debug\net6.0\Hello C#.pdb
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.csproj.AssemblyReference.cache
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.AssemblyInfoInputs.cache
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.AssemblyInfo.cs
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.csproj.CoreCompileInputs.cache
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.dll
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\refint\Hello C#.dll
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.pdb
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\Hello C#.genruntimeconfig.cache
+C:\Users\harshanben.dholaria\IdeaProjects\C#\Hello C#\obj\Debug\net6.0\ref\Hello C#.dll
